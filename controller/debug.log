@@ -1,0 +1,71 @@
+Dữ liệu thô: {"id":0,"gateway":"SePay","transactionDate":"2026-05-21 17:32:50","accountNumber":"0000000000","subAccount":null,"transferType":"in","transferAmount":10000,"accumulated":10000,"code":"SEPAYTEST","content":"SEPAY TEST WEBHOOK","referenceCode":"TEST1779359570","description":"SePay test webhook delivery"}
+Dữ liệu mảng: Array
+(
+    [id] => 0
+    [gateway] => SePay
+    [transactionDate] => 2026-05-21 17:32:50
+    [accountNumber] => 0000000000
+    [subAccount] => 
+    [transferType] => in
+    [transferAmount] => 10000
+    [accumulated] => 10000
+    [code] => SEPAYTEST
+    [content] => SEPAY TEST WEBHOOK
+    [referenceCode] => TEST1779359570
+    [description] => SePay test webhook delivery
+)
+
+Dữ liệu thô: {"gateway":"MBBank","transactionDate":"2026-05-21 17:38:00","accountNumber":"5882202104","subAccount":null,"code":null,"content":"DH39 FT26141917940021 kC95DFMN\/202336","transferType":"in","description":"BankAPINotify DH39 FT26141917940021 kC95DFMN\/202336","transferAmount":30000,"referenceCode":"FT26141878748228","accumulated":0,"id":59872755}
+Dữ liệu mảng: Array
+(
+    [gateway] => MBBank
+    [transactionDate] => 2026-05-21 17:38:00
+    [accountNumber] => 5882202104
+    [subAccount] => 
+    [code] => 
+    [content] => DH39 FT26141917940021 kC95DFMN/202336
+    [transferType] => in
+    [description] => BankAPINotify DH39 FT26141917940021 kC95DFMN/202336
+    [transferAmount] => 30000
+    [referenceCode] => FT26141878748228
+    [accumulated] => 0
+    [id] => 59872755
+)
+
+Đã duyệt đơn 39 qua mã DH
+Dữ liệu thô: {"gateway":"MBBank","transactionDate":"2026-05-21 17:39:00","accountNumber":"5882202104","subAccount":null,"code":null,"content":"DH40 FT26141515013649 kC95VUNB\/212719","transferType":"in","description":"BankAPINotify DH40 FT26141515013649 kC95VUNB\/212719","transferAmount":30000,"referenceCode":"FT26141022860888","accumulated":0,"id":59872924}
+Dữ liệu mảng: Array
+(
+    [gateway] => MBBank
+    [transactionDate] => 2026-05-21 17:39:00
+    [accountNumber] => 5882202104
+    [subAccount] => 
+    [code] => 
+    [content] => DH40 FT26141515013649 kC95VUNB/212719
+    [transferType] => in
+    [description] => BankAPINotify DH40 FT26141515013649 kC95VUNB/212719
+    [transferAmount] => 30000
+    [referenceCode] => FT26141022860888
+    [accumulated] => 0
+    [id] => 59872924
+)
+
+Đã duyệt đơn 40 qua mã DH
+Dữ liệu thô: {"gateway":"MBBank","transactionDate":"2026-05-21 17:45:00","accountNumber":"5882202104","subAccount":null,"code":null,"content":"DH41 FT26141279520101 kC958U1C\/269255","transferType":"in","description":"BankAPINotify DH41 FT26141279520101 kC958U1C\/269255","transferAmount":10000,"referenceCode":"FT26141919515495","accumulated":0,"id":59873815}
+Dữ liệu mảng: Array
+(
+    [gateway] => MBBank
+    [transactionDate] => 2026-05-21 17:45:00
+    [accountNumber] => 5882202104
+    [subAccount] => 
+    [code] => 
+    [content] => DH41 FT26141279520101 kC958U1C/269255
+    [transferType] => in
+    [description] => BankAPINotify DH41 FT26141279520101 kC958U1C/269255
+    [transferAmount] => 10000
+    [referenceCode] => FT26141919515495
+    [accumulated] => 0
+    [id] => 59873815
+)
+
+Đã duyệt đơn 41 qua mã DH
